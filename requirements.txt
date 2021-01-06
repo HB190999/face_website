@@ -1,0 +1,68 @@
+absl-py @ file:///tmp/build/80754af9/absl-py_1600297527605/work
+aiohttp @ file:///tmp/build/80754af9/aiohttp_1602530305083/work
+astroid==2.4.2
+astunparse==1.6.3
+async-timeout==3.0.1
+attrs @ file:///tmp/build/80754af9/attrs_1600298409949/work
+blinker==1.4
+brotlipy==0.7.0
+cachetools @ file:///tmp/build/80754af9/cachetools_1596822027882/work
+certifi==2020.12.5
+cffi @ file:///tmp/build/80754af9/cffi_1600699180754/work
+chardet==3.0.4
+click==7.1.2
+cryptography @ file:///tmp/build/80754af9/cryptography_1601046817403/work
+dlib==19.21.1
+face-recognition==1.3.0
+face-recognition-models==0.3.0
+Flask==1.1.2
+gast==0.3.3
+google-auth @ file:///tmp/build/80754af9/google-auth_1601995530934/work
+google-auth-oauthlib==0.4.1
+google-pasta==0.2.0
+grpcio @ file:///tmp/build/80754af9/grpcio_1597424467487/work
+h5py==2.10.0
+idna @ file:///tmp/build/80754af9/idna_1593446292537/work
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1602276842396/work
+imutils==0.5.3
+isort==5.7.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+Keras @ file:///tmp/build/80754af9/keras_split_1593112142734/work
+Keras-Preprocessing==1.1.0
+lazy-object-proxy==1.4.3
+Markdown @ file:///tmp/build/80754af9/markdown_1603216490021/work
+MarkupSafe==1.1.1
+mccabe==0.6.1
+multidict @ file:///tmp/build/80754af9/multidict_1600456400975/work
+numpy @ file:///home/conda/feedstock_root/build_artifacts/numpy_1604945996409/work
+oauthlib==3.1.0
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+opt-einsum==3.1.0
+Pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1602493094547/work
+protobuf==3.13.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+PyJWT==1.7.1
+pylint==2.6.0
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+PySocks @ file:///tmp/build/80754af9/pysocks_1594394576006/work
+PyYAML==5.3.1
+requests @ file:///tmp/build/80754af9/requests_1592841827918/work
+requests-oauthlib==1.3.0
+rsa @ file:///tmp/build/80754af9/rsa_1596998415516/work
+scipy @ file:///tmp/build/80754af9/scipy_1597686661256/work
+six==1.15.0
+tensorboard==2.2.1
+tensorboard-plugin-wit==1.6.0
+tensorflow==2.2.0
+tensorflow-estimator==2.2.0
+termcolor==1.1.0
+toml==0.10.2
+typed-ast==1.4.2
+urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
+Werkzeug==1.0.1
+wrapt==1.12.1
+yarl @ file:///tmp/build/80754af9/yarl_1602693045341/work
+zipp @ file:///tmp/build/80754af9/zipp_1603306325174/work
